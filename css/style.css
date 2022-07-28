@@ -38,3 +38,9 @@
     width:100px;
 }
 /* Cetagoroes section End*/
+/* subscribe section css start */
+#subscribe_sec .container{
+    height: 300px;
+    background-color:#FEEAE9 ;
+}
+/* subscribe section css End */
